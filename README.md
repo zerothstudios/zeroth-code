@@ -72,10 +72,10 @@ You'll see the output right in your terminal. To try a different exercise, chang
 
 **Season 1:**
 
-| Episode | Topic | Exercises | Guide |
-|---------|-------|-----------|-------|
-| 01 | What Makes Something Smart? | [exercises.py](zeroth-ai/season-1/ep01-what-makes-something-smart/exercises.py) | [README](zeroth-ai/season-1/ep01-what-makes-something-smart/README.md) |
-| 02 | How Computers Actually Work | [exercises.py](zeroth-ai/season-1/ep02-how-computers-actually-work/exercises.py) | [README](zeroth-ai/season-1/ep02-how-computers-actually-work/README.md) |
+| Episode | Topic | Colab Notebook | Python Script | Guide |
+|---------|-------|----------------|---------------|-------|
+| 01 | What Makes Something Smart? | [exercises.ipynb](zeroth-ai/season-1/ep01-what-makes-something-smart/exercises.ipynb) | [exercises.py](zeroth-ai/season-1/ep01-what-makes-something-smart/exercises.py) | [README](zeroth-ai/season-1/ep01-what-makes-something-smart/README.md) |
+| 02 | How Computers Actually Work | [exercises.ipynb](zeroth-ai/season-1/ep02-how-computers-actually-work/exercises.ipynb) | [exercises.py](zeroth-ai/season-1/ep02-how-computers-actually-work/exercises.py) | [README](zeroth-ai/season-1/ep02-how-computers-actually-work/README.md) |
 
 More episodes coming as the season releases.
 

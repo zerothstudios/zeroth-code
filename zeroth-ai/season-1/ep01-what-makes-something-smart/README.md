@@ -19,16 +19,27 @@ These exercises make more sense after you've listened to the episode.
 3. **Learning Spam Filter** — The AI way. The system learns patterns from examples. Nobody programmed a word list.
 4. **The Intelligence Spectrum** — From thermostats to three-year-olds. Intelligence isn't one thing.
 
+## Files in This Folder
+
+| File | What it's for |
+|------|--------------|
+| [exercises.ipynb](exercises.ipynb) | **Open this in Google Colab** — interactive notebook with explanations |
+| [exercises.py](exercises.py) | Same exercises as a plain Python script — run this on your computer |
+
 ## How to Run
 
 ### Option A: Run in your browser (easiest)
+
+Open the notebook in Google Colab — no installation needed:
 
 1. Go to [Google Colab](https://colab.research.google.com).
 2. Sign in with any Google account (Gmail, YouTube, etc.).
 3. Click **File > Open notebook > GitHub**.
 4. Type `zerothstudios` in the search box and hit Enter.
-5. Find `zeroth-ai/season-1/ep01-what-makes-something-smart/exercises.py` and click it.
-6. Click the **play button** next to each code block, or press **Shift + Enter**.
+5. Find **`exercises.ipynb`** in the `ep01-what-makes-something-smart` folder and click it.
+6. Click the **play button** (▶) next to each code block, or press **Shift + Enter**.
+
+Each exercise has an explanation above it and a code block you can run and modify.
 
 ### Option B: Run on your computer
 
