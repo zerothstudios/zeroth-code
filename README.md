@@ -1,6 +1,6 @@
 # Zeroth Studios — Code Exercises
 
-Hands-on code exercises for **Zeroth Studios** podcasts. Each episode has exercises that let you see the concepts in action.
+Hands-on code exercises for [Zeroth Studios](https://zerothstudios.com) podcasts. Each episode has exercises that let you see the concepts in action.
 
 **You don't need any programming experience.** We'll walk you through everything.
 
@@ -72,14 +72,22 @@ You'll see the output right in your terminal. To try a different exercise, chang
 
 **Season 1:**
 
-| Episode | Topic | Run it |
-|---------|-------|--------|
-| 01 | What Makes Something Smart? | [exercises.py](zeroth-ai/season-1/ep01-what-makes-something-smart/exercises.py) |
-| 02 | How Computers Actually Work | [exercises.py](zeroth-ai/season-1/ep02-how-computers-actually-work/exercises.py) |
+| Episode | Topic | Exercises | Guide |
+|---------|-------|-----------|-------|
+| 01 | What Makes Something Smart? | [exercises.py](zeroth-ai/season-1/ep01-what-makes-something-smart/exercises.py) | [README](zeroth-ai/season-1/ep01-what-makes-something-smart/README.md) |
+| 02 | How Computers Actually Work | [exercises.py](zeroth-ai/season-1/ep02-how-computers-actually-work/exercises.py) | [README](zeroth-ai/season-1/ep02-how-computers-actually-work/README.md) |
 
 More episodes coming as the season releases.
 
 ---
+
+## Contributing
+
+Want to improve an exercise or report a bug? See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## License
+
+[MIT](LICENSE) — Copyright (c) 2026 Zeroth Studios.
 
 ## About
 
