@@ -1,15 +1,13 @@
-# Zeroth: AI — Code Exercises
+# Zeroth Studios — Code Exercises
 
-Companion code for the **Zeroth: AI** podcast. Each episode folder contains interactive Python exercises you can run locally or on Google Colab.
+Companion code for **Zeroth Studios** podcasts. Interactive Python exercises you can run locally or on Google Colab. No programming experience required.
 
-No programming experience required. Every exercise includes explanations and expected output.
+## Shows
 
-## Episodes
+### [Zeroth: AI](zeroth-ai/)
+36 episodes explaining artificial intelligence from the ground up. No jargon. No math degree required.
 
-| Episode | Topic | Exercises |
-|---------|-------|-----------|
-| [EP01](ep01-what-makes-something-smart/) | What Makes Something Smart? | Rules vs. learning, spam classifier |
-| [EP02](ep02-how-computers-actually-work/) | How Computers Actually Work | Binary converter, logic gates, ASCII |
+- [Season 1](zeroth-ai/season-1/) — Episodes 1-36
 
 ## How to Run
 
@@ -18,12 +16,9 @@ Click the "Open in Colab" badge in any exercise notebook.
 
 **Option 2 — Local:**
 ```bash
-pip install jupyter
-jupyter notebook
+python3 zeroth-ai/season-1/ep01-what-makes-something-smart/exercises.py
 ```
 
 ## About
-
-Zeroth: AI is a 36-episode series that explains artificial intelligence from the ground up. No jargon. No math degree required.
 
 [zerothstudios.com](https://zerothstudios.com)
